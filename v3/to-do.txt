@@ -1,0 +1,18 @@
+/styling/coding:
+-FIX CONTACT PAGE: add form?
+-landing page with animations?
+-weird space at the top of row div in about page...
+-sticky footer OR...
+-about page: why doesn't img have rounded corners?
+
+-make into a single page, with '#' links?
+-convert into an angular single-page app with changing states, child states?
+-make server w/ routes? not necessary for angular app?
+
+-content:
+-about page:
+  -revise bio
+-link to a blog?
+
+-social media:
+  -gotta start posting things (tumblr blog? twitter? instagram?)

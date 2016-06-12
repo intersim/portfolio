@@ -1,0 +1,156 @@
+/*!
+ * Start Bootstrap - 1 Col Portfolio HTML Template (http://startbootstrap.com)
+ * Code licensed under the Apache License v2.0.
+ * For details, see http://www.apache.org/licenses/LICENSE-2.0.
+ */
+
+body {
+    padding-top: 40px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+    font-family: "Work Sans", sans-serif;
+/*    line-height: 1em;*/
+    margin-bottom: 80px;
+}
+
+/*footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+   /* Set the fixed height of the footer here 
+  height: 80px;
+}*/
+
+/* additional styles */
+
+.my-container {
+  width: 80%;
+}
+
+h1 {
+  font-family: "Mrs Sheppards", cursive;
+  font-size: 60px;
+  letter-spacing: 0.12em;
+  margin-bottom: 0;
+}
+
+nav {
+  display: flex;
+  justify-content: center;
+}
+
+nav ul {
+  display: flex;
+  margin: 10px;
+  padding: 0px;
+  list-style-type: none;
+}
+
+nav ul li {
+  padding: 1em;
+}
+
+.bottom-padding {
+  margin-bottom: 25px;
+}
+
+.col-md-7.bottom-padding {
+  margin-bottom: 25px;
+}
+
+.col-md-5.bottom-padding {
+  margin-bottom: 0;
+}
+
+hr {
+  margin: 0;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  border-top: 0;
+}
+
+.center {
+  text-align: center;
+}
+
+a {
+  color: #222222;
+  font-weight: 600;
+}
+
+a:link {
+  color: #222222;
+  font-weight: 600;
+}
+
+a:hover {
+  text-decoration: none;
+  color: red;
+}
+
+a:active {
+  color: orange;
+}
+
+a:visited {
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.current {
+  color: red;
+}
+
+i {
+  padding: 0.2em;
+}
+
+.my-img {
+  float: left;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+/*footer {
+    position: absolute;
+    bottom: 0;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 70px; //same height as the margin to the bottom of the body
+}*/
+
+/* mobile styles */
+
+@media (min-device-width: 375px) and (max-device-width: 667px) {
+  .my-container {
+    width: 100%;
+  }
+
+  .my-img {
+    float: none;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 15px;
+  }
+
+  .my-hr {
+    display: none;
+  }
+
+  h1 {
+    font-family: "Mrs Sheppards", cursive;
+    font-size: 45px;
+  }
+
+  body {
+    padding-top: 0px;
+  }
+
+  .col-md-7.bottom-padding {
+    margin-bottom: 0;
+  }
+
+  .col-md-5.bottom-padding {
+    margin-bottom: 25px;
+  }
+}
