@@ -109,6 +109,13 @@ i {
   padding-right: 15px;
 }
 
+.small-heart {
+  height: 25px;
+}
+
+.top-padding {
+  padding-top: 25px;
+}
 /*footer {
     position: absolute;
     bottom: 0;
